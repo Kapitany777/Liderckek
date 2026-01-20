@@ -1,0 +1,117 @@
+body
+{
+	background-image: url(hatter.jpg);
+	background-color: #00003f;
+	color: #d0d0d0;
+	font-family: Georgia, Verdana, Arial, Helvetica, sans-serif;
+	margin: 0px 0px 0px 0px;
+	scrollbar-face-color: #000080;
+	scrollbar-highlight-color: #000000;
+	scrollbar-shadow-color: #0000d0;
+	scrollbar-arrow-color: #0000ff;
+	scrollbar-track-color: #000000;
+	scrollbar-base-color: #000080;
+	scrollbar-3d-light-color: #ffffff;
+	scrollbar-dark-shadow-color: #000000;	
+}
+
+#container
+{
+	width: 847px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 100px;
+	background-image: url(fejlec.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+	border-top: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	border-left: 2px solid #000000;
+	border-right: 2px solid #000000;
+}
+
+#links
+{
+	margin: 0px 0px 0px 0px;
+	padding: 8px 16px 8px 16px;
+	background-color: #00002f;
+	color: #ffffff;
+	text-align: left;
+	border-top: 1px solid #00BFFF;
+	border-bottom: 1px solid #00BFFF;
+	font-variant: small-caps;
+}
+
+#links a
+{
+   background-color: transparent;
+	color: #ffffff;
+	font-family: Georgia, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#links a:hover
+{
+	background-color: transparent;
+	color: #c0c0c0;
+}
+
+#txt
+{
+	margin: 0px 0px 0px 0px;
+	padding: 12px 18px 12px 18px;
+	background-color: #00003f;
+	color: #ffffff;
+	line-height: 130%;
+	text-align: justify;
+}
+
+#txt h1
+{
+	background-color: transparent;
+	color: #4169E1;
+	font-family: Georgia, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 130%;
+	font-variant: small-caps;
+	margin: 0px 0px 20px 0px;
+}
+
+#txt a
+{
+	background-color: transparent;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#txt a:hover
+{
+	text-decoration: underline;
+}
+
+#footer
+{
+	margin: 0px 0px 0px 0px;
+	padding: 8px 16px 8px 16px;
+	background-color: #00002f;
+	color: #ffffff;
+	text-align: center;
+	border-top: 1px solid #00BFFF;
+	font-variant: small-caps;
+	font-size: 70%;
+}
+
+#footer a
+{
+	background-color: transparent;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#footer a:hover
+{
+	text-decoration: underline;
+}
