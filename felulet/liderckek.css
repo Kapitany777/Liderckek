@@ -4,15 +4,13 @@ body
 	background-color: #00003f;
 	color: #d0d0d0;
 	font-family: Georgia, Verdana, Arial, Helvetica, sans-serif;
-	margin: 0px 0px 0px 0px;
+	margin: 0;
 	scrollbar-face-color: #000080;
 	scrollbar-highlight-color: #000000;
 	scrollbar-shadow-color: #0000d0;
 	scrollbar-arrow-color: #0000ff;
 	scrollbar-track-color: #000000;
 	scrollbar-base-color: #000080;
-	scrollbar-3d-light-color: #ffffff;
-	scrollbar-dark-shadow-color: #000000;	
 }
 
 #container
@@ -32,7 +30,7 @@ body
 
 #links
 {
-	margin: 0px 0px 0px 0px;
+	margin: 0;
 	padding: 8px 16px 8px 16px;
 	background-color: #00002f;
 	color: #ffffff;
@@ -60,7 +58,7 @@ body
 
 #txt
 {
-	margin: 0px 0px 0px 0px;
+	margin: 0;
 	padding: 12px 18px 12px 18px;
 	background-color: #00003f;
 	color: #ffffff;
@@ -75,7 +73,7 @@ body
 	font-family: Georgia, Verdana, Arial, Helvetica, sans-serif;
 	font-size: 130%;
 	font-variant: small-caps;
-	margin: 0px 0px 20px 0px;
+	margin: 0 0 20px 0;
 }
 
 #txt a
@@ -93,7 +91,7 @@ body
 
 #footer
 {
-	margin: 0px 0px 0px 0px;
+	margin: 0;
 	padding: 8px 16px 8px 16px;
 	background-color: #00002f;
 	color: #ffffff;
