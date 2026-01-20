@@ -1,3 +1,3 @@
 <?php
-define ("LIDERCKEK_MAX", 27 );
+const LIDERCKEK_MAX = 27;
 ?>
